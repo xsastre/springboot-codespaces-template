@@ -10,8 +10,8 @@ Requeriments:
 Com obrir amb Codespaces:
 1. A GitHub: Code → Open with Codespaces → Create codespace on main.
 2. Al terminal del Codespace:
-   - Executa: ./mvnw spring-boot:run   (o `mvn spring-boot:run` si tens Maven local)
-   - L'aplicació iniciarà a http://localhost:8080
+    - Executa: ./mvnw spring-boot:run   (o `mvn spring-boot:run` si tens Maven local)
+    - L'aplicació iniciarà a http://localhost:8080
 3. A la vista de Ports de Codespaces, obre el port 8080 amb "Open in Browser".
 
 Endpoints d'exemple:
