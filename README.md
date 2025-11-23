@@ -1,3 +1,6 @@
+<figure style="text-align: center;">
+  <img src=".xs/logo_xaviersastre_v4.png" alt="Logo" width="50%">
+</figure>
 
 # Spring Boot Codespaces Template
 
@@ -18,7 +21,3 @@ Endpoints d'exemple:
 - GET /api/hello → retorna text.
 - GET /api/greet?name=Anna → retorna JSON: { "message": "Hola, Anna!" }
 
-Consells per a l'aula:
-- Incloure mvnw i .mvn/wrapper per assegurar que tothom té la mateixa versió de Maven.
-- Activa prebuilds de Codespaces per reduir el temps d'inicialització per a estudiants.
-- Usa repositori plantilla o GitHub Classroom per crear repos per cada alumne.
